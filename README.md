@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm Maxime Kiriakov</h1>
+<h1 align="center">Maxime Kiriakov</h1>
 <h3 align="center">Backend/DevOps engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maxvelkir&label=Profile%20views&color=0e75b6&style=flat" alt="maxvelkir" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maxvelkir" alt="maxvelkir" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
